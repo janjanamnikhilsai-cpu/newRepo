@@ -1,0 +1,12 @@
+What is Jenkins?
+Last Updated : 21 Aug, 2025
+Jenkins is a free, open-source tool that helps developers automate the process of building, testing, and deploying code. It is written in Java and runs on the Java platform. By using Jenkins, we can make a continuous integration of projects(jobs) or end-to-end automation.
+
+Core Concepts
+The following are some important concepts of Jenkins:
+
+1. Jenkins Controller(Formerly Master)
+The Jenkins Controller serves as the central system for managing a Jenkins instance, often referred to as its "heart." It oversees agents and their connections, determining the tasks they should perform. Additionally, the Jenkins Controller loads plugins and ensures that jobs run in the correct sequence.
+
+2. Jenkins Agent(Formerly Slave)
+Jenkins Agent is a machine that performs tasks like running scripts, executing tests, or building components, etc. These tasks are assigned by the Jenkins Controller. Each agent can have its setup, like different operating systems, software, or hardware. This helps Jenkins handle many types of tasks and work faster by spreading the load.
