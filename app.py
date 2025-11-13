@@ -29,3 +29,16 @@ print("City:", city)
 print("Total Marks:", total)
 print("Percentage:", percentage, "%")
 
+
+
+# Displaying Output
+#print("\n===== Student Report =====")
+#print("Name:", name)
+#print("Age:", age)
+#print("Course:", course)
+#print("College:", college)
+#print("City:", city)
+#print("Total Marks:", total)
+#print("Percentage:", percentage, "%")
+
+
