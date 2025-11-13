@@ -34,5 +34,3 @@ print("Percentage:", percentage, "%")
 
 
 
-#this is the commmit to check 
-#lkcnjBCacssacinas'oicnasionc]asicoasbc[oisbci[oan
